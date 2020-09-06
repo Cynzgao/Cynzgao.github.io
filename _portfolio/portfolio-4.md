@@ -10,4 +10,4 @@ collection: portfolio
 Framed
 
 
-![p7_f](/images/p7_f.jpg)
+![p7_f](/images/p7_f.JPG)
