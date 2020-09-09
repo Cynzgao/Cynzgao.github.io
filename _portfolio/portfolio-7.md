@@ -6,4 +6,4 @@ collection: portfolio
 Donated
 
 
-![p9](/images/p9.JPG)
+![p9](/images/p9.jpg)
